@@ -1,7 +1,7 @@
 
 # LSB Stegonography
 
-The project hides a secret message within a bigger one so that neither its existence nor its content can be discovered.
+The project hides a secret message within a bigger Image so that neither its existence nor its content can be discovered.
 
 ## Screenshots
 
